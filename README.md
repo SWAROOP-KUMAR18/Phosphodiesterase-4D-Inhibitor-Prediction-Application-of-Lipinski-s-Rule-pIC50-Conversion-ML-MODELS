@@ -34,6 +34,10 @@ notebooks/: Jupyter Notebooks with code for data analysis, Lipinski's Rule appli
 models/: Pre-trained models and their evaluations.
 requirements.txt: Python dependencies.
 
+Acknowledgements
+ChEMBL dataset for providing valuable data for drug discovery.
+Scikit-learn, for providing machine learning models and tools for model evaluation.
+RDKit for cheminformatics.
 ## Installation
 To get started with this project, clone this repository and install the required libraries:
 
